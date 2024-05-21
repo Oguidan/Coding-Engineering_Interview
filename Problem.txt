@@ -4,4 +4,4 @@ Example the collection could be:
 [1, 2, 3, 9] sum 8
 [1, 2, 4, 4] sum 8
 and the sum is 8.
-These bumbers are given in memory you can go with an array you can also assume that they're ordered intending. You can't repeat the same element at the same index twice but certainly the same number may appear twice. The bumbers can be negatives.
+These bumbers are given in memory you can go with an array you can also assume that they're ordered intending. You can't repeat the same element at the same index twice but certainly the same number may appear twice. The bumbers can be negatives. The numbers are not sorted.
