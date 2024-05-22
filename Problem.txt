@@ -1,7 +1,9 @@
-Here is the problem,
-I will give you a collection of numbers and I need you to take this collection of number and find a matching pair that is equal to a sum that I give as well.
-Example the collection could be: 
-[1, 2, 3, 9] sum 8
-[1, 2, 4, 4] sum 8
-and the sum is 8.
-These bumbers are given in memory you can go with an array you can also assume that they're ordered intending. You can't repeat the same element at the same index twice but certainly the same number may appear twice. The bumbers can be negatives. The numbers are not sorted.
+Here is the problem:
+
+I will give you a collection of numbers, and I need you to find a matching pair from this collection that equals a specified sum. 
+
+For example:
+- For the collection [1, 2, 3, 9] and the sum 8, there is no matching pair.
+- For the collection [1, 2, 4, 4] and the sum 8, the matching pair is (4, 4).
+
+The numbers are given in memory, and you can use an array. You can assume that the numbers are ordered, but not necessarily sorted. You can't use the same element at the same index twice, but the same number may appear more than once. The numbers can also be negative.
